@@ -397,7 +397,7 @@ I'm actively seeking **Flutter Developer** positions where I can contribute to i
   
   *Passionate about creating digital experiences that make a difference*
   
-  <img src="https://github.com/DevNebula6/DevNebula6/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
   
 </div>
 
