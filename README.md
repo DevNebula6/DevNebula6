@@ -10,8 +10,8 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vineet-prakash-853159327/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-View-success?style=flat-square&logo=firefox)](https://github.com/DevNebula6)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](vineet2k3.gamer@gmail.com)
-  [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readme&logoColor=white)]([https://your-resume-link.com](https://drive.google.com/file/d/1Nv7d5aG2nhTWezoTJoKIC_paQkG--iMq/view?usp=sharing))
-</div>
+  [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readme&logoColor=white)]((https://drive.google.com/file/d/1Nv7d5aG2nhTWezoTJoKIC_paQkG--iMq/view?usp=sharing))
+</div>)
 
 ---
 
