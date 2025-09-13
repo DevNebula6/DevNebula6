@@ -10,7 +10,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vineet-prakash-853159327/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-View-success?style=flat-square&logo=firefox)](https://github.com/DevNebula6)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](vineet2k3.gamer@gmail.com)
-  
+  [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readme&logoColor=white)]([https://your-resume-link.com](https://drive.google.com/file/d/1Nv7d5aG2nhTWezoTJoKIC_paQkG--iMq/view?usp=sharing))
 </div>
 
 ---
@@ -383,8 +383,8 @@ I'm actively seeking **Flutter Developer** positions where I can contribute to i
 - **Learning Communities** and developer networks
 
 ### 📫 **Get In Touch**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vineet-prakash-diwakar)
-[![Email](https://img.shields.io/badge/Gmail-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vineet.diwakar@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineet-prakash-853159327/)
+[![Email](https://img.shields.io/badge/Gmail-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vineet2k3.gamer@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/DevNebula6)
 
 </div>
