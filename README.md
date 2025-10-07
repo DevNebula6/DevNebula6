@@ -6,11 +6,29 @@
 
 <div align="center">
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=DevNebula6&color=blue&style=flat-square)](https://github.com/DevNebula6)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([www.linkedin.com/in/vineet-prakash-diwakar-853159327](https://www.linkedin.com/in/vineet-prakash-diwakar-853159327))
-  [![Portfolio](https://img.shields.io/badge/Portfolio-View-success?style=flat-square&logo=firefox)](https://github.com/DevNebula6)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](vineet2k3.gamer@gmail.com)
-  [![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=readme&logoColor=white)](https://drive.google.com/file/d/1Nv7d5aG2nhTWezoTJoKIC_paQkG--iMq/view?usp=sharing)
+  <!-- Profile Views -->
+  <a href="https://github.com/DevNebula6" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=DevNebula6&color=blue&style=flat-square" alt="Profile Views"/>
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/vineet-prakash-diwakar-853159327/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://github.com/DevNebula6" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View-success?style=flat-square&logo=firefox" alt="Portfolio"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:vineet2k3.gamer@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"/>
+  </a>
+
+  <!-- Resume -->
+  <a href="https://drive.google.com/file/d/1Nv7d5aG2nhTWezoTJoKIC_paQkG--iMq/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=readme&logoColor=white" alt="Resume"/>
+  </a>
 </div>
 
 ---
