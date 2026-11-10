@@ -27,17 +27,15 @@
 |:---:|:---:|:---:|:---:|
 | Flutter Developer experience | Android + iOS delivery | Driver app downloads | Customer app downloads |
 
-<div align="center">
-  <strong>At Cabswale: reduced Firebase costs by 50-60% through query, listener, and caching improvements.</strong>
-</div>
+**At Cabswale: reduced Firebase costs by 50-60% through query, listener, and caching improvements.**
 
 </div>
 
 ## 👨‍💻 About Me
 
-> **Flutter Developer · Mobile Product Engineer · AI Enthusiast**
+> **Flutter Developer · Mobile Product Engineer · AI Product Builder**
 
-I design and ship cross-platform mobile applications with a focus on **clean architecture, responsive UI, reliable data flows, and thoughtful product details**. My work spans production mobility products, AI made simple for everyday use, wallpaper commerce, travel planning, finance, and voice-powered sports tools.
+I design and ship cross-platform mobile applications with a focus on **clean architecture, responsive UI, reliable data flows, and thoughtful product details**. My work spans production mobility products, AI made simple for everyday life, wallpaper commerce, travel planning, finance, and voice-powered sports tools.
 
 ### 🎯 What I am looking for
 
@@ -48,18 +46,18 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 ### 🎨 Fluids — 4K HD Wallpapers
 
 <details open>
-<summary><strong>📱 View the full Fluids screen gallery</strong> · Google Play screenshots</summary>
+<summary><strong>📱 View the full Fluids screen gallery</strong> · high-resolution product screenshots</summary>
 
 <table>
 <tr>
-<td><a href="assets/fluids/1.png"><img src="assets/fluids/1.png" width="150" alt="Fluids screen 1" /></a></td>
-<td><a href="assets/fluids/2.png"><img src="assets/fluids/2.png" width="150" alt="Fluids screen 2" /></a></td>
-<td><a href="assets/fluids/3.png"><img src="assets/fluids/3.png" width="150" alt="Fluids screen 3" /></a></td>
-<td><a href="assets/fluids/4.png"><img src="assets/fluids/4.png" width="150" alt="Fluids screen 4" /></a></td>
-<td><a href="assets/fluids/5.png"><img src="assets/fluids/5.png" width="150" alt="Fluids screen 5" /></a></td>
-<td><a href="assets/fluids/6.png"><img src="assets/fluids/6.png" width="150" alt="Fluids screen 6" /></a></td>
-<td><a href="assets/fluids/7.png"><img src="assets/fluids/7.png" width="150" alt="Fluids screen 7" /></a></td>
-<td><a href="assets/fluids/8.png"><img src="assets/fluids/8.png" width="150" alt="Fluids screen 8" /></a></td>
+<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/fluids/1.png" target="_blank"><img src="assets/fluids/1.png" width="150" alt="Fluids screen 1" /></a></td>
+<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/fluids/2.png" target="_blank"><img src="assets/fluids/2.png" width="150" alt="Fluids screen 2" /></a></td>
+<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/fluids/3.png" target="_blank"><img src="assets/fluids/3.png" width="150" alt="Fluids screen 3" /></a></td>
+<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/fluids/4.png" target="_blank"><img src="assets/fluids/4.png" width="150" alt="Fluids screen 4" /></a></td>
+<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/fluids/5.png" target="_blank"><img src="assets/fluids/5.png" width="150" alt="Fluids screen 5" /></a></td>
+<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/fluids/6.png" target="_blank"><img src="assets/fluids/6.png" width="150" alt="Fluids screen 6" /></a></td>
+<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/fluids/7.png" target="_blank"><img src="assets/fluids/7.png" width="150" alt="Fluids screen 7" /></a></td>
+<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/fluids/8.png" target="_blank"><img src="assets/fluids/8.png" width="150" alt="Fluids screen 8" /></a></td>
 </tr>
 </table>
 
@@ -77,11 +75,9 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 - Built with **Flutter, Riverpod, Clean Architecture, Supabase, Postgres, and Edge Functions**.
 - Added personalized feeds, offline caching, deep links, background wallpaper scheduling, and home / lock screen controls.
 - Implemented Google Play Billing with purchase verification, refund handling, and a 14-day Flow trial.
-- Designed a clean, modern experience for discovering, editing, saving, and applying HD and 4K wallpapers.
+- Designed a clean experience for discovering, editing, saving, and applying HD and 4K wallpapers.
 
-<div align="center">
-  <a href="https://play.google.com/store/apps/details?id=cc.fluids.app"><strong>↗ View Fluids on Google Play</strong></a>
-</div>
+<div align="center"><a href="https://play.google.com/store/apps/details?id=cc.fluids.app"><strong>↗ View Fluids on Google Play</strong></a></div>
 
 ---
 
@@ -92,14 +88,14 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 
 <table>
 <tr>
-<td><a href="assets/kettle/01-ask.png"><img src="assets/kettle/01-ask.png" width="150" alt="Kettle AI ask screen" /></a></td>
-<td><a href="assets/kettle/02-cards.png"><img src="assets/kettle/02-cards.png" width="150" alt="Kettle AI answer cards" /></a></td>
-<td><a href="assets/kettle/03-reminders.png"><img src="assets/kettle/03-reminders.png" width="150" alt="Kettle AI reminders" /></a></td>
-<td><a href="assets/kettle/04-answers.png"><img src="assets/kettle/04-answers.png" width="150" alt="Kettle AI answers" /></a></td>
-<td><a href="assets/kettle/05-letters.png"><img src="assets/kettle/05-letters.png" width="150" alt="Kettle AI letters" /></a></td>
-<td><a href="assets/kettle/06-places.png"><img src="assets/kettle/06-places.png" width="150" alt="Kettle AI places" /></a></td>
-<td><a href="assets/kettle/07-papers.png"><img src="assets/kettle/07-papers.png" width="150" alt="Kettle AI papers" /></a></td>
-<td><a href="assets/kettle/08-language.png"><img src="assets/kettle/08-language.png" width="150" alt="Kettle AI language tools" /></a></td>
+<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/kettle/01-ask.png" target="_blank"><img src="assets/kettle/01-ask.png" width="150" alt="Kettle AI ask screen" /></a></td>
+<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/kettle/02-cards.png" target="_blank"><img src="assets/kettle/02-cards.png" width="150" alt="Kettle AI answer cards" /></a></td>
+<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/kettle/03-reminders.png" target="_blank"><img src="assets/kettle/03-reminders.png" width="150" alt="Kettle AI reminders" /></a></td>
+<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/kettle/04-answers.png" target="_blank"><img src="assets/kettle/04-answers.png" width="150" alt="Kettle AI answers" /></a></td>
+<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/kettle/05-letters.png" target="_blank"><img src="assets/kettle/05-letters.png" width="150" alt="Kettle AI letters" /></a></td>
+<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/kettle/06-places.png" target="_blank"><img src="assets/kettle/06-places.png" width="150" alt="Kettle AI places" /></a></td>
+<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/kettle/07-papers.png" target="_blank"><img src="assets/kettle/07-papers.png" width="150" alt="Kettle AI papers" /></a></td>
+<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/kettle/08-language.png" target="_blank"><img src="assets/kettle/08-language.png" width="150" alt="Kettle AI language tools" /></a></td>
 </tr>
 </table>
 
@@ -121,9 +117,7 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 - Create shareable greetings, invitations, documents, spreadsheets, and map cards for WhatsApp.
 - Use Hindi, English, or Hinglish with voice input and memory that remains visible and editable.
 
-<div align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.getkettleai.app"><strong>↗ Open the Kettle AI testing link</strong></a>
-</div>
+<div align="center"><a href="https://play.google.com/store/apps/details?id=com.getkettleai.app"><strong>↗ Open the Kettle AI testing link</strong></a></div>
 
 ---
 
@@ -169,6 +163,7 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 
 <a href="https://play.google.com/store/apps/details?id=com.app.cabswalle"><img src="https://img.shields.io/badge/Google_Play-CabsWale_Partners-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="CabsWale Partners on Google Play" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.cabswale.cabswale"><img src="https://img.shields.io/badge/Google_Play-Cabswale-2E86AB?style=for-the-badge&logo=googleplay&logoColor=white" alt="Cabswale on Google Play" /></a>
+
 - Developed and maintained two production Flutter applications for Android and iOS: a driver community app and a customer booking app.
 - Contributed to products with **500K+ driver-community downloads** and **50K+ customer-booking downloads**.
 - Improved Firebase responsiveness and reduced Firebase costs by **50-60%** through query, listener, and caching improvements.
