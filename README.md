@@ -27,15 +27,17 @@
 |:---:|:---:|:---:|:---:|
 | Flutter Developer experience | Android + iOS delivery | Driver app downloads | Customer app downloads |
 
-**At Cabswale: reduced Firebase costs by 50-60% through query, listener, and caching improvements.**
+<div align="center">
+  <strong>At Cabswale: reduced Firebase costs by 50-60% through query, listener, and caching improvements.</strong>
+</div>
 
 </div>
 
 ## 👨‍💻 About Me
 
-> **Flutter Developer · Mobile Product Engineer · AI Product Builder**
+> **Flutter Developer · Mobile Product Engineer · AI Enthusiast**
 
-I design and ship cross-platform mobile applications with a focus on **clean architecture, responsive UI, reliable data flows, and thoughtful product details**. My work spans production mobility products, AI made simple for everyday life, wallpaper commerce, travel planning, finance, and voice-powered sports tools.
+I design and ship cross-platform mobile applications with a focus on **clean architecture, responsive UI, reliable data flows, and thoughtful product details**. My work spans production mobility products, AI made simple for everyday use, wallpaper commerce, travel planning, finance, and voice-powered sports tools.
 
 ### 🎯 What I am looking for
 
@@ -46,7 +48,7 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 ### 🎨 Fluids — 4K HD Wallpapers
 
 <details open>
-<summary><strong>📱 View the full Fluids screen gallery</strong> · high-resolution product screenshots</summary>
+<summary><strong>📱 View the full Fluids screen gallery</strong> · Google Play screenshots</summary>
 
 <table>
 <tr>
@@ -75,9 +77,11 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 - Built with **Flutter, Riverpod, Clean Architecture, Supabase, Postgres, and Edge Functions**.
 - Added personalized feeds, offline caching, deep links, background wallpaper scheduling, and home / lock screen controls.
 - Implemented Google Play Billing with purchase verification, refund handling, and a 14-day Flow trial.
-- Designed a clean experience for discovering, editing, saving, and applying HD and 4K wallpapers.
+- Designed a clean, modern experience for discovering, editing, saving, and applying HD and 4K wallpapers.
 
-<div align="center"><a href="https://play.google.com/store/apps/details?id=cc.fluids.app"><strong>↗ View Fluids on Google Play</strong></a></div>
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=cc.fluids.app"><strong>↗ View Fluids on Google Play</strong></a>
+</div>
 
 ---
 
@@ -117,7 +121,9 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 - Create shareable greetings, invitations, documents, spreadsheets, and map cards for WhatsApp.
 - Use Hindi, English, or Hinglish with voice input and memory that remains visible and editable.
 
-<div align="center"><a href="https://play.google.com/store/apps/details?id=com.getkettleai.app"><strong>↗ Open the Kettle AI testing link</strong></a></div>
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.getkettleai.app"><strong>↗ Open the Kettle AI testing link</strong></a>
+</div>
 
 ---
 
@@ -163,7 +169,6 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 
 <a href="https://play.google.com/store/apps/details?id=com.app.cabswalle"><img src="https://img.shields.io/badge/Google_Play-CabsWale_Partners-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="CabsWale Partners on Google Play" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.cabswale.cabswale"><img src="https://img.shields.io/badge/Google_Play-Cabswale-2E86AB?style=for-the-badge&logo=googleplay&logoColor=white" alt="Cabswale on Google Play" /></a>
-
 - Developed and maintained two production Flutter applications for Android and iOS: a driver community app and a customer booking app.
 - Contributed to products with **500K+ driver-community downloads** and **50K+ customer-booking downloads**.
 - Improved Firebase responsiveness and reduced Firebase costs by **50-60%** through query, listener, and caching improvements.
