@@ -305,6 +305,16 @@
       if (prefersReducedMotion) track.style.transition = 'none';
     });
 
+    const requestedProject = new URLSearchParams(window.location.search).get('project');
+    const requestedSlide = Number(new URLSearchParams(window.location.search).get('slide'));
+    if (requestedProject && Number.isInteger(requestedSlide)) {
+      const requestedCarousel = [...document.querySelectorAll('[data-carousel]')]
+        .find((carousel) => carousel.dataset.carousel === requestedProject);
+      const requestedDot = requestedCarousel?.querySelectorAll('.dot')[requestedSlide];
+      requestedDot?.click();
+      requestedCarousel?.scrollIntoView({ block: 'center', behavior: prefersReducedMotion ? 'auto' : 'smooth' });
+    }
+
     const lightbox = document.querySelector('.lightbox');
     const lightboxImage = lightbox.querySelector('img');
     document.querySelectorAll('.slide img').forEach((image) => image.addEventListener('click', () => {
