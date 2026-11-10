@@ -48,18 +48,18 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 <details open>
 <summary><strong>📱 View the full Fluids screen gallery</strong> · high-resolution product screenshots</summary>
 
-<div align="center">
-  <a href="assets/fluids/1.png"><img src="assets/fluids/1.png" width="30%" alt="Fluids screen 1" /></a>
-  <a href="assets/fluids/2.png"><img src="assets/fluids/2.png" width="30%" alt="Fluids screen 2" /></a>
-  <a href="assets/fluids/3.png"><img src="assets/fluids/3.png" width="30%" alt="Fluids screen 3" /></a>
-  <br />
-  <a href="assets/fluids/4.png"><img src="assets/fluids/4.png" width="30%" alt="Fluids screen 4" /></a>
-  <a href="assets/fluids/5.png"><img src="assets/fluids/5.png" width="30%" alt="Fluids screen 5" /></a>
-  <a href="assets/fluids/6.png"><img src="assets/fluids/6.png" width="30%" alt="Fluids screen 6" /></a>
-  <br />
-  <a href="assets/fluids/7.png"><img src="assets/fluids/7.png" width="30%" alt="Fluids screen 7" /></a>
-  <a href="assets/fluids/8.png"><img src="assets/fluids/8.png" width="30%" alt="Fluids screen 8" /></a>
-</div>
+<table>
+<tr>
+<td><a href="assets/fluids/1.png"><img src="assets/fluids/1.png" width="150" alt="Fluids screen 1" /></a></td>
+<td><a href="assets/fluids/2.png"><img src="assets/fluids/2.png" width="150" alt="Fluids screen 2" /></a></td>
+<td><a href="assets/fluids/3.png"><img src="assets/fluids/3.png" width="150" alt="Fluids screen 3" /></a></td>
+<td><a href="assets/fluids/4.png"><img src="assets/fluids/4.png" width="150" alt="Fluids screen 4" /></a></td>
+<td><a href="assets/fluids/5.png"><img src="assets/fluids/5.png" width="150" alt="Fluids screen 5" /></a></td>
+<td><a href="assets/fluids/6.png"><img src="assets/fluids/6.png" width="150" alt="Fluids screen 6" /></a></td>
+<td><a href="assets/fluids/7.png"><img src="assets/fluids/7.png" width="150" alt="Fluids screen 7" /></a></td>
+<td><a href="assets/fluids/8.png"><img src="assets/fluids/8.png" width="150" alt="Fluids screen 8" /></a></td>
+</tr>
+</table>
 
 </details>
 
@@ -86,17 +86,18 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 <details open>
 <summary><strong>📱 View the full Kettle AI screen gallery</strong> · testing build screenshots</summary>
 
-<div align="center">
-  <a href="assets/kettle/01-ask.png"><img src="assets/kettle/01-ask.png" width="23%" alt="Kettle AI ask screen" /></a>
-  <a href="assets/kettle/02-cards.png"><img src="assets/kettle/02-cards.png" width="23%" alt="Kettle AI answer cards" /></a>
-  <a href="assets/kettle/03-reminders.png"><img src="assets/kettle/03-reminders.png" width="23%" alt="Kettle AI reminders" /></a>
-  <a href="assets/kettle/04-answers.png"><img src="assets/kettle/04-answers.png" width="23%" alt="Kettle AI answers" /></a>
-  <br />
-  <a href="assets/kettle/05-letters.png"><img src="assets/kettle/05-letters.png" width="23%" alt="Kettle AI letters" /></a>
-  <a href="assets/kettle/06-places.png"><img src="assets/kettle/06-places.png" width="23%" alt="Kettle AI places" /></a>
-  <a href="assets/kettle/07-papers.png"><img src="assets/kettle/07-papers.png" width="23%" alt="Kettle AI papers" /></a>
-  <a href="assets/kettle/08-language.png"><img src="assets/kettle/08-language.png" width="23%" alt="Kettle AI language tools" /></a>
-</div>
+<table>
+<tr>
+<td><a href="assets/kettle/01-ask.png"><img src="assets/kettle/01-ask.png" width="150" alt="Kettle AI ask screen" /></a></td>
+<td><a href="assets/kettle/02-cards.png"><img src="assets/kettle/02-cards.png" width="150" alt="Kettle AI answer cards" /></a></td>
+<td><a href="assets/kettle/03-reminders.png"><img src="assets/kettle/03-reminders.png" width="150" alt="Kettle AI reminders" /></a></td>
+<td><a href="assets/kettle/04-answers.png"><img src="assets/kettle/04-answers.png" width="150" alt="Kettle AI answers" /></a></td>
+<td><a href="assets/kettle/05-letters.png"><img src="assets/kettle/05-letters.png" width="150" alt="Kettle AI letters" /></a></td>
+<td><a href="assets/kettle/06-places.png"><img src="assets/kettle/06-places.png" width="150" alt="Kettle AI places" /></a></td>
+<td><a href="assets/kettle/07-papers.png"><img src="assets/kettle/07-papers.png" width="150" alt="Kettle AI papers" /></a></td>
+<td><a href="assets/kettle/08-language.png"><img src="assets/kettle/08-language.png" width="150" alt="Kettle AI language tools" /></a></td>
+</tr>
+</table>
 
 </details>
 
