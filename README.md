@@ -5,10 +5,10 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/DevNebula6"><img src="https://komarev.com/ghpvc/?username=DevNebula6&color=2E86AB&style=flat-square" alt="Profile views" /></a>
-  <a href="https://www.linkedin.com/in/vineet-prakash-diwakar-853159327/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:vineet.inbox26@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://drive.google.com/file/d/1dxBQGW3MeR4DKqpxngSouvDaf8rtCD9a/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-2E86AB?style=flat-square&logo=readme&logoColor=white" alt="Resume" /></a>
+  <a href="https://github.com/DevNebula6" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=DevNebula6&color=2E86AB&style=flat-square" alt="Profile views" /></a>
+  <a href="https://www.linkedin.com/in/vineet-prakash-diwakar-853159327/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:vineet.inbox26@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://drive.google.com/file/d/1dxBQGW3MeR4DKqpxngSouvDaf8rtCD9a/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-View-2E86AB?style=flat-square&logo=readme&logoColor=white" alt="Resume" /></a>
 </div>
 
 ---
@@ -67,8 +67,8 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 
 **A wallpaper product designed, built, and launched independently.**
 
-<a href="https://play.google.com/store/apps/details?id=cc.fluids.app"><img src="https://img.shields.io/badge/Google_Play-100%2B_downloads-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Fluids on Google Play" /></a>
-<a href="https://play.google.com/store/apps/details?id=cc.fluids.app"><img src="https://img.shields.io/badge/HD%20%2F%204K-Wallpaper%20experience-2E86AB?style=for-the-badge" alt="HD and 4K wallpaper experience" /></a>
+<a href="https://play.google.com/store/apps/details?id=cc.fluids.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google_Play-100%2B_downloads-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Fluids on Google Play" /></a>
+<a href="https://play.google.com/store/apps/details?id=cc.fluids.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HD%20%2F%204K-Wallpaper%20experience-2E86AB?style=for-the-badge" alt="HD and 4K wallpaper experience" /></a>
 
 </div>
 
@@ -77,7 +77,7 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 - Implemented Google Play Billing with purchase verification, refund handling, and a 14-day Flow trial.
 - Designed a clean experience for discovering, editing, saving, and applying HD and 4K wallpapers.
 
-<div align="center"><a href="https://play.google.com/store/apps/details?id=cc.fluids.app"><strong>↗ View Fluids on Google Play</strong></a></div>
+<div align="center"><a href="https://play.google.com/store/apps/details?id=cc.fluids.app" target="_blank" rel="noopener noreferrer"><strong>↗ View Fluids on Google Play</strong></a></div>
 
 ---
 
@@ -105,8 +105,8 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 
 **Currently in Google Play testing · available through the testing link**
 
-<a href="https://play.google.com/store/apps/details?id=com.getkettleai.app"><img src="https://img.shields.io/badge/Google_Play-Testing_track-FBBC04?style=for-the-badge&logo=googleplay&logoColor=202124" alt="Kettle AI testing build" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.getkettleai.app"><img src="https://img.shields.io/badge/Hindi%20%2F%20Hinglish-Voice%20friendly-2E86AB?style=for-the-badge" alt="Kettle AI Hindi, Hinglish, and voice support" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.getkettleai.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google_Play-Testing_track-FBBC04?style=for-the-badge&logo=googleplay&logoColor=202124" alt="Kettle AI testing build" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.getkettleai.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Hindi%20%2F%20Hinglish-Voice%20friendly-2E86AB?style=for-the-badge" alt="Kettle AI Hindi, Hinglish, and voice support" /></a>
 
 </div>
 
@@ -117,7 +117,7 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 - Create shareable greetings, invitations, documents, spreadsheets, and map cards for WhatsApp.
 - Use Hindi, English, or Hinglish with voice input and memory that remains visible and editable.
 
-<div align="center"><a href="https://play.google.com/store/apps/details?id=com.getkettleai.app"><strong>↗ Open the Kettle AI testing link</strong></a></div>
+<div align="center"><a href="https://play.google.com/store/apps/details?id=com.getkettleai.app" target="_blank" rel="noopener noreferrer"><strong>↗ Open the Kettle AI testing link</strong></a></div>
 
 ---
 
@@ -125,7 +125,7 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 
 **AI-powered travel planning with persistent context**
 
-<a href="https://github.com/DevNebula6/Smart_Trip_Planner_Flutter"><img src="https://img.shields.io/badge/GitHub-View_project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Smart Trip Planner repository" /></a>
+<a href="https://github.com/DevNebula6/Smart_Trip_Planner_Flutter" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-View_project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Smart Trip Planner repository" /></a>
 
 - Gemini function calling across flights, hotels, Google Places, web search, and budgets.
 - Structured JSON itineraries rendered as editable cards with map and route previews.
@@ -137,7 +137,7 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 
 **Conversational AI with persistent memory and voice interaction**
 
-<a href="https://github.com/DevNebula6/AI_companion"><img src="https://img.shields.io/badge/GitHub-View_project-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI Companion repository" /></a>
+<a href="https://github.com/DevNebula6/AI_companion" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-View_project-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI Companion repository" /></a>
 
 - Google Gemini conversations with Supabase authentication and Hive offline caching.
 - Session persistence, mood and personality insights, and voice input / output.
@@ -149,7 +149,7 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 
 **Voice-assisted scoring for tennis and pickleball**
 
-<a href="https://github.com/DevNebula6/game_on"><img src="https://img.shields.io/badge/GitHub-View_project-181717?style=for-the-badge&logo=github&logoColor=white" alt="GameOn repository" /></a>
+<a href="https://github.com/DevNebula6/game_on" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-View_project-181717?style=for-the-badge&logo=github&logoColor=white" alt="GameOn repository" /></a>
 
 - Official tennis and pickleball scoring logic with tiebreakers and serve rotation.
 - Voice commands, match analytics, tournament brackets, match history, and live sharing.
@@ -161,8 +161,8 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 
 **Apr 2026 - Oct 2026 · Gurugram, India**
 
-<a href="https://play.google.com/store/apps/details?id=com.app.cabswalle"><img src="https://img.shields.io/badge/Google_Play-CabsWale_Partners-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="CabsWale Partners on Google Play" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.cabswale.cabswale"><img src="https://img.shields.io/badge/Google_Play-Cabswale-2E86AB?style=for-the-badge&logo=googleplay&logoColor=white" alt="Cabswale on Google Play" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.app.cabswalle" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google_Play-CabsWale_Partners-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="CabsWale Partners on Google Play" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.cabswale.cabswale" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google_Play-Cabswale-2E86AB?style=for-the-badge&logo=googleplay&logoColor=white" alt="Cabswale on Google Play" /></a>
 
 - Developed and maintained two production Flutter applications for Android and iOS: a driver community app and a customer booking app.
 - Contributed to products with **500K+ driver-community downloads** and **50K+ customer-booking downloads**.
@@ -218,9 +218,9 @@ Led the engineering and deployment of an online scholarship distribution system 
 
 I am actively looking for Flutter, mobile application, and AI-enabled product roles.
 
-<a href="https://www.linkedin.com/in/vineet-prakash-diwakar-853159327/"><img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:vineet.inbox26@gmail.com"><img src="https://img.shields.io/badge/Gmail-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/DevNebula6"><img src="https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/vineet-prakash-diwakar-853159327/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:vineet.inbox26@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/DevNebula6" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br /><br />
 
