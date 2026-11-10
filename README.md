@@ -48,16 +48,18 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 <details open>
 <summary><strong>📱 View the full Fluids screen gallery</strong> · high-resolution product screenshots</summary>
 
+<p align="center"><sub>Tap any screenshot to open the full viewer with Previous / Next navigation.</sub></p>
+
 <table>
 <tr>
-<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/fluids/1.png" target="_blank"><img src="assets/fluids/1.png" width="150" alt="Fluids screen 1" /></a></td>
-<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/fluids/2.png" target="_blank"><img src="assets/fluids/2.png" width="150" alt="Fluids screen 2" /></a></td>
-<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/fluids/3.png" target="_blank"><img src="assets/fluids/3.png" width="150" alt="Fluids screen 3" /></a></td>
-<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/fluids/4.png" target="_blank"><img src="assets/fluids/4.png" width="150" alt="Fluids screen 4" /></a></td>
-<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/fluids/5.png" target="_blank"><img src="assets/fluids/5.png" width="150" alt="Fluids screen 5" /></a></td>
-<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/fluids/6.png" target="_blank"><img src="assets/fluids/6.png" width="150" alt="Fluids screen 6" /></a></td>
-<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/fluids/7.png" target="_blank"><img src="assets/fluids/7.png" width="150" alt="Fluids screen 7" /></a></td>
-<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/fluids/8.png" target="_blank"><img src="assets/fluids/8.png" width="150" alt="Fluids screen 8" /></a></td>
+<td><a href="https://devnebula6.github.io/DevNebula6/?project=fluids&slide=0" target="_blank"><img src="assets/fluids/1.png" width="150" alt="Fluids screen 1" /></a></td>
+<td><a href="https://devnebula6.github.io/DevNebula6/?project=fluids&slide=1" target="_blank"><img src="assets/fluids/2.png" width="150" alt="Fluids screen 2" /></a></td>
+<td><a href="https://devnebula6.github.io/DevNebula6/?project=fluids&slide=2" target="_blank"><img src="assets/fluids/3.png" width="150" alt="Fluids screen 3" /></a></td>
+<td><a href="https://devnebula6.github.io/DevNebula6/?project=fluids&slide=3" target="_blank"><img src="assets/fluids/4.png" width="150" alt="Fluids screen 4" /></a></td>
+<td><a href="https://devnebula6.github.io/DevNebula6/?project=fluids&slide=4" target="_blank"><img src="assets/fluids/5.png" width="150" alt="Fluids screen 5" /></a></td>
+<td><a href="https://devnebula6.github.io/DevNebula6/?project=fluids&slide=5" target="_blank"><img src="assets/fluids/6.png" width="150" alt="Fluids screen 6" /></a></td>
+<td><a href="https://devnebula6.github.io/DevNebula6/?project=fluids&slide=6" target="_blank"><img src="assets/fluids/7.png" width="150" alt="Fluids screen 7" /></a></td>
+<td><a href="https://devnebula6.github.io/DevNebula6/?project=fluids&slide=7" target="_blank"><img src="assets/fluids/8.png" width="150" alt="Fluids screen 8" /></a></td>
 </tr>
 </table>
 
@@ -86,16 +88,18 @@ Flutter Developer, Mobile Application Developer, and AI-enabled product roles wi
 <details open>
 <summary><strong>📱 View the full Kettle AI screen gallery</strong> · testing build screenshots</summary>
 
+<p align="center"><sub>Tap any screenshot to open the full viewer with Previous / Next navigation.</sub></p>
+
 <table>
 <tr>
-<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/kettle/01-ask.png" target="_blank"><img src="assets/kettle/01-ask.png" width="150" alt="Kettle AI ask screen" /></a></td>
-<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/kettle/02-cards.png" target="_blank"><img src="assets/kettle/02-cards.png" width="150" alt="Kettle AI answer cards" /></a></td>
-<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/kettle/03-reminders.png" target="_blank"><img src="assets/kettle/03-reminders.png" width="150" alt="Kettle AI reminders" /></a></td>
-<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/kettle/04-answers.png" target="_blank"><img src="assets/kettle/04-answers.png" width="150" alt="Kettle AI answers" /></a></td>
-<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/kettle/05-letters.png" target="_blank"><img src="assets/kettle/05-letters.png" width="150" alt="Kettle AI letters" /></a></td>
-<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/kettle/06-places.png" target="_blank"><img src="assets/kettle/06-places.png" width="150" alt="Kettle AI places" /></a></td>
-<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/kettle/07-papers.png" target="_blank"><img src="assets/kettle/07-papers.png" width="150" alt="Kettle AI papers" /></a></td>
-<td><a href="https://raw.githubusercontent.com/DevNebula6/DevNebula6/main/assets/kettle/08-language.png" target="_blank"><img src="assets/kettle/08-language.png" width="150" alt="Kettle AI language tools" /></a></td>
+<td><a href="https://devnebula6.github.io/DevNebula6/?project=kettle&slide=0" target="_blank"><img src="assets/kettle/01-ask.png" width="150" alt="Kettle AI ask screen" /></a></td>
+<td><a href="https://devnebula6.github.io/DevNebula6/?project=kettle&slide=1" target="_blank"><img src="assets/kettle/02-cards.png" width="150" alt="Kettle AI answer cards" /></a></td>
+<td><a href="https://devnebula6.github.io/DevNebula6/?project=kettle&slide=2" target="_blank"><img src="assets/kettle/03-reminders.png" width="150" alt="Kettle AI reminders" /></a></td>
+<td><a href="https://devnebula6.github.io/DevNebula6/?project=kettle&slide=3" target="_blank"><img src="assets/kettle/04-answers.png" width="150" alt="Kettle AI answers" /></a></td>
+<td><a href="https://devnebula6.github.io/DevNebula6/?project=kettle&slide=4" target="_blank"><img src="assets/kettle/05-letters.png" width="150" alt="Kettle AI letters" /></a></td>
+<td><a href="https://devnebula6.github.io/DevNebula6/?project=kettle&slide=5" target="_blank"><img src="assets/kettle/06-places.png" width="150" alt="Kettle AI places" /></a></td>
+<td><a href="https://devnebula6.github.io/DevNebula6/?project=kettle&slide=6" target="_blank"><img src="assets/kettle/07-papers.png" width="150" alt="Kettle AI papers" /></a></td>
+<td><a href="https://devnebula6.github.io/DevNebula6/?project=kettle&slide=7" target="_blank"><img src="assets/kettle/08-language.png" width="150" alt="Kettle AI language tools" /></a></td>
 </tr>
 </table>
 
