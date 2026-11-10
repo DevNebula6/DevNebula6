@@ -1,0 +1,322 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Vineet Prakash Diwakar - Flutter and mobile developer portfolio.">
+  <title>Vineet Prakash Diwakar | Flutter Developer</title>
+  <style>
+    :root {
+      --ink: #08111f;
+      --ink-soft: #102238;
+      --paper: #f5f7fb;
+      --muted: #64748b;
+      --line: #dce5ef;
+      --cyan: #2e86ab;
+      --cyan-soft: #9fe7ff;
+      --amber: #ffb347;
+      --white: #ffffff;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: var(--paper);
+      font-family: Georgia, 'Times New Roman', serif;
+      line-height: 1.6;
+    }
+
+    a { color: inherit; }
+    .hero {
+      min-height: 76vh;
+      display: grid;
+      place-items: center;
+      padding: 72px 24px 84px;
+      color: var(--white);
+      background:
+        radial-gradient(circle at 18% 20%, rgba(46, 134, 171, .42), transparent 28%),
+        radial-gradient(circle at 82% 72%, rgba(255, 179, 71, .28), transparent 26%),
+        linear-gradient(135deg, #06101e 0%, #0c2638 58%, #123a46 100%);
+    }
+
+    .hero-inner { width: min(1050px, 100%); }
+    .eyebrow {
+      margin: 0 0 18px;
+      color: var(--cyan-soft);
+      font: 700 12px/1.2 'Segoe UI', sans-serif;
+      letter-spacing: .16em;
+      text-transform: uppercase;
+    }
+    h1, h2, h3 { margin: 0; line-height: 1.05; }
+    h1 { max-width: 800px; font-size: clamp(48px, 9vw, 108px); letter-spacing: -.05em; }
+    .hero p { max-width: 680px; margin: 28px 0 0; color: #d8e6ee; font-size: clamp(19px, 2.4vw, 27px); }
+    .hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 34px; }
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 44px;
+      padding: 0 18px;
+      border: 1px solid rgba(255,255,255,.28);
+      border-radius: 999px;
+      color: var(--white);
+      background: rgba(255,255,255,.08);
+      font: 700 13px 'Segoe UI', sans-serif;
+      text-decoration: none;
+      transition: transform .2s ease, background .2s ease;
+    }
+    .button:hover { transform: translateY(-2px); background: rgba(255,255,255,.18); }
+    .button.primary { border-color: var(--amber); color: var(--ink); background: var(--amber); }
+
+    main { width: min(1100px, calc(100% - 40px)); margin: 0 auto; }
+    .proof {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      margin: -38px 0 90px;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: var(--white);
+      box-shadow: 0 18px 50px rgba(8, 17, 31, .12);
+    }
+    .proof div { padding: 24px; border-right: 1px solid var(--line); }
+    .proof div:last-child { border-right: 0; }
+    .proof strong { display: block; color: var(--cyan); font: 800 29px 'Segoe UI', sans-serif; }
+    .proof span { color: var(--muted); font: 600 12px/1.35 'Segoe UI', sans-serif; }
+
+    section { padding: 0 0 105px; }
+    .section-kicker { margin: 0 0 12px; color: var(--cyan); font: 800 12px 'Segoe UI', sans-serif; letter-spacing: .14em; text-transform: uppercase; }
+    h2 { font-size: clamp(34px, 5vw, 62px); letter-spacing: -.04em; }
+    .section-intro { max-width: 680px; margin: 18px 0 34px; color: var(--muted); font-size: 19px; }
+
+    .project {
+      margin-top: 28px;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      background: var(--white);
+      box-shadow: 0 12px 40px rgba(8, 17, 31, .07);
+    }
+    .project-top { padding: 30px 30px 18px; }
+    .project-label { color: var(--cyan); font: 800 12px 'Segoe UI', sans-serif; letter-spacing: .1em; text-transform: uppercase; }
+    h3 { margin-top: 8px; font-size: clamp(28px, 4vw, 46px); }
+    .project-top p { max-width: 760px; margin: 14px 0 0; color: var(--muted); font-size: 17px; }
+
+    .carousel { position: relative; padding: 20px 68px 28px; background: #edf3f7; }
+    .viewport { overflow: hidden; border-radius: 14px; touch-action: pan-y; }
+    .track { display: flex; transition: transform .35s cubic-bezier(.2,.8,.2,1); }
+    .slide { flex: 0 0 100%; display: grid; place-items: center; min-height: 300px; }
+    .slide img { display: block; max-width: 100%; max-height: 600px; border-radius: 10px; object-fit: contain; box-shadow: 0 12px 28px rgba(8,17,31,.18); }
+    .nav {
+      position: absolute;
+      top: 50%;
+      width: 42px;
+      height: 42px;
+      border: 0;
+      border-radius: 50%;
+      color: var(--ink);
+      background: var(--white);
+      box-shadow: 0 5px 16px rgba(8,17,31,.15);
+      font-size: 23px;
+      cursor: pointer;
+      transform: translateY(-50%);
+    }
+    .nav:hover { color: var(--white); background: var(--cyan); }
+    .nav.prev { left: 16px; }
+    .nav.next { right: 16px; }
+    .dots { display: flex; justify-content: center; gap: 7px; margin-top: 20px; }
+    .dot { width: 8px; height: 8px; padding: 0; border: 0; border-radius: 50%; background: #b6c8d6; cursor: pointer; }
+    .dot.active { width: 23px; border-radius: 8px; background: var(--cyan); }
+    .project-bottom { display: flex; flex-wrap: wrap; gap: 10px 24px; align-items: center; padding: 20px 30px 26px; }
+    .tag { color: var(--muted); font: 700 12px 'Segoe UI', sans-serif; }
+    .project-bottom .button { color: var(--ink); border-color: var(--line); background: var(--paper); }
+
+    .about-grid { display: grid; grid-template-columns: 1.3fr .7fr; gap: 28px; }
+    .about-copy, .skills { padding: 30px; border: 1px solid var(--line); border-radius: 18px; background: var(--white); }
+    .about-copy p { margin: 0; color: var(--muted); font-size: 18px; }
+    .skills ul { display: flex; flex-wrap: wrap; gap: 9px; padding: 0; margin: 0; list-style: none; }
+    .skills li { padding: 8px 11px; border-radius: 8px; color: var(--cyan); background: #e8f4f8; font: 700 12px 'Segoe UI', sans-serif; }
+
+    footer { padding: 54px 24px; color: #d8e6ee; background: var(--ink); }
+    footer .footer-inner { width: min(1100px, 100%); margin: 0 auto; }
+    footer p { margin: 8px 0 0; color: #9fb6c5; }
+
+    .lightbox { position: fixed; inset: 0; z-index: 5; display: none; place-items: center; padding: 30px; background: rgba(3, 10, 18, .92); }
+    .lightbox.open { display: grid; }
+    .lightbox img { max-width: min(94vw, 1100px); max-height: 88vh; border-radius: 10px; }
+    .lightbox-close { position: fixed; top: 18px; right: 24px; width: 42px; height: 42px; border: 0; border-radius: 50%; color: white; background: rgba(255,255,255,.14); font-size: 24px; cursor: pointer; }
+
+    @media (max-width: 760px) {
+      .hero { min-height: 70vh; padding: 54px 20px; }
+      main { width: min(100% - 28px, 1100px); }
+      .proof { grid-template-columns: repeat(2, 1fr); margin-top: -28px; }
+      .proof div:nth-child(2) { border-right: 0; }
+      .proof div:nth-child(-n+2) { border-bottom: 1px solid var(--line); }
+      .proof div { padding: 17px; }
+      .proof strong { font-size: 23px; }
+      .about-grid { grid-template-columns: 1fr; }
+      .carousel { padding-right: 54px; padding-left: 54px; }
+      .project-top, .project-bottom { padding-left: 20px; padding-right: 20px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <p class="eyebrow">Flutter / Mobile Developer / AI Product Builder</p>
+      <h1>Vineet Prakash Diwakar</h1>
+      <p>I build useful mobile products with polished interfaces, reliable architecture, and AI that earns its place in the experience.</p>
+      <div class="hero-actions">
+        <a class="button primary" href="#work">Explore selected work</a>
+        <a class="button" href="https://drive.google.com/file/d/1dxBQGW3MeR4DKqpxngSouvDaf8rtCD9a/view?usp=sharing">View resume</a>
+        <a class="button" href="https://www.linkedin.com/in/vineet-prakash-diwakar-853159327/">Connect on LinkedIn</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="proof" aria-label="Selected career proof points">
+      <div><strong>500K+</strong><span>driver app downloads at Cabswale</span></div>
+      <div><strong>50K+</strong><span>customer app downloads at Cabswale</span></div>
+      <div><strong>2</strong><span>production Android and iOS apps</span></div>
+      <div><strong>50-60%</strong><span>Firebase cost reduction</span></div>
+    </div>
+
+    <section id="work">
+      <p class="section-kicker">Selected work</p>
+      <h2>Products you can see.</h2>
+      <p class="section-intro">A closer look at products I have shipped, shaped, or brought into testing. Use the controls to move through each screen set.</p>
+
+      <article class="project">
+        <div class="project-top">
+          <span class="project-label">Shipped on Google Play</span>
+          <h3>Fluids</h3>
+          <p>A high-resolution wallpaper experience with discovery, collections, editing, background scheduling, offline caching, and Google Play Billing.</p>
+        </div>
+        <div class="carousel" data-carousel="fluids">
+          <button class="nav prev" type="button" aria-label="Previous Fluids screenshot">&#8249;</button>
+          <div class="viewport">
+            <div class="track">
+              <div class="slide"><img src="assets/fluids/1.png" alt="Fluids screen 1"></div>
+              <div class="slide"><img src="assets/fluids/2.png" alt="Fluids screen 2"></div>
+              <div class="slide"><img src="assets/fluids/3.png" alt="Fluids screen 3"></div>
+              <div class="slide"><img src="assets/fluids/4.png" alt="Fluids screen 4"></div>
+              <div class="slide"><img src="assets/fluids/5.png" alt="Fluids screen 5"></div>
+              <div class="slide"><img src="assets/fluids/6.png" alt="Fluids screen 6"></div>
+              <div class="slide"><img src="assets/fluids/7.png" alt="Fluids screen 7"></div>
+              <div class="slide"><img src="assets/fluids/8.png" alt="Fluids screen 8"></div>
+            </div>
+          </div>
+          <button class="nav next" type="button" aria-label="Next Fluids screenshot">&#8250;</button>
+          <div class="dots" aria-label="Fluids screenshots"></div>
+        </div>
+        <div class="project-bottom">
+          <span class="tag">Flutter · Riverpod · Supabase · Google Play Billing</span>
+          <a class="button" href="https://play.google.com/store/apps/details?id=cc.fluids.app">View on Google Play</a>
+        </div>
+      </article>
+
+      <article class="project">
+        <div class="project-top">
+          <span class="project-label">Currently in Google Play testing</span>
+          <h3>Kettle AI</h3>
+          <p>AI Made Simple for everyday questions, writing, documents, images, search, reminders, and shareable outputs, with Hindi, Hinglish, and voice-friendly flows.</p>
+        </div>
+        <div class="carousel" data-carousel="kettle">
+          <button class="nav prev" type="button" aria-label="Previous Kettle AI screenshot">&#8249;</button>
+          <div class="viewport">
+            <div class="track">
+              <div class="slide"><img src="assets/kettle/01-ask.png" alt="Kettle AI ask screen"></div>
+              <div class="slide"><img src="assets/kettle/02-cards.png" alt="Kettle AI answer cards"></div>
+              <div class="slide"><img src="assets/kettle/03-reminders.png" alt="Kettle AI reminders"></div>
+              <div class="slide"><img src="assets/kettle/04-answers.png" alt="Kettle AI answers"></div>
+              <div class="slide"><img src="assets/kettle/05-letters.png" alt="Kettle AI letters"></div>
+              <div class="slide"><img src="assets/kettle/06-places.png" alt="Kettle AI places"></div>
+              <div class="slide"><img src="assets/kettle/07-papers.png" alt="Kettle AI papers"></div>
+              <div class="slide"><img src="assets/kettle/08-language.png" alt="Kettle AI language tools"></div>
+            </div>
+          </div>
+          <button class="nav next" type="button" aria-label="Next Kettle AI screenshot">&#8250;</button>
+          <div class="dots" aria-label="Kettle AI screenshots"></div>
+        </div>
+        <div class="project-bottom">
+          <span class="tag">Flutter · Riverpod · Drift · Supabase Edge Functions</span>
+          <a class="button" href="https://play.google.com/store/apps/details?id=com.getkettleai.app">Open testing link</a>
+        </div>
+      </article>
+    </section>
+
+    <section>
+      <p class="section-kicker">How I work</p>
+      <h2>Product thinking, backed by engineering.</h2>
+      <div class="about-grid">
+        <div class="about-copy"><p>I work across the product surface and the system beneath it: interaction design, Flutter architecture, backend integration, offline behavior, release workflows, and the details that make an app feel dependable.</p></div>
+        <div class="skills"><ul><li>Flutter</li><li>Dart</li><li>Riverpod</li><li>BLoC</li><li>Firebase</li><li>Supabase</li><li>Gemini</li><li>Offline-first</li><li>REST</li><li>Testing</li></ul></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <strong>Open to Flutter, mobile, and AI-enabled product roles.</strong>
+      <p><a href="mailto:vineet2k3.gamer@gmail.com">vineet2k3.gamer@gmail.com</a> · <a href="https://github.com/DevNebula6">GitHub</a> · <a href="https://www.linkedin.com/in/vineet-prakash-diwakar-853159327/">LinkedIn</a></p>
+    </div>
+  </footer>
+
+  <div class="lightbox" aria-hidden="true">
+    <button class="lightbox-close" type="button" aria-label="Close full-screen image">&times;</button>
+    <img alt="Expanded portfolio screenshot">
+  </div>
+
+  <script>
+    const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    document.querySelectorAll('[data-carousel]').forEach((carousel) => {
+      const track = carousel.querySelector('.track');
+      const slides = [...carousel.querySelectorAll('.slide')];
+      const dots = carousel.querySelector('.dots');
+      let index = 0;
+      slides.forEach((_, i) => {
+        const dot = document.createElement('button');
+        dot.className = 'dot' + (i === 0 ? ' active' : '');
+        dot.type = 'button';
+        dot.setAttribute('aria-label', `Show screenshot ${i + 1}`);
+        dot.addEventListener('click', () => goTo(i));
+        dots.appendChild(dot);
+      });
+      const update = () => {
+        track.style.transform = `translateX(-${index * 100}%)`;
+        dots.querySelectorAll('.dot').forEach((dot, i) => dot.classList.toggle('active', i === index));
+      };
+      const goTo = (next) => { index = (next + slides.length) % slides.length; update(); };
+      carousel.querySelector('.prev').addEventListener('click', () => goTo(index - 1));
+      carousel.querySelector('.next').addEventListener('click', () => goTo(index + 1));
+      carousel.addEventListener('keydown', (event) => {
+        if (event.key === 'ArrowLeft') goTo(index - 1);
+        if (event.key === 'ArrowRight') goTo(index + 1);
+      });
+      let startX = 0;
+      carousel.addEventListener('touchstart', (event) => { startX = event.changedTouches[0].clientX; }, { passive: true });
+      carousel.addEventListener('touchend', (event) => {
+        const delta = event.changedTouches[0].clientX - startX;
+        if (Math.abs(delta) > 40) goTo(index + (delta < 0 ? 1 : -1));
+      }, { passive: true });
+      if (prefersReducedMotion) track.style.transition = 'none';
+    });
+
+    const lightbox = document.querySelector('.lightbox');
+    const lightboxImage = lightbox.querySelector('img');
+    document.querySelectorAll('.slide img').forEach((image) => image.addEventListener('click', () => {
+      lightboxImage.src = image.src;
+      lightboxImage.alt = image.alt;
+      lightbox.classList.add('open');
+      lightbox.setAttribute('aria-hidden', 'false');
+    }));
+    const closeLightbox = () => { lightbox.classList.remove('open'); lightbox.setAttribute('aria-hidden', 'true'); };
+    lightbox.addEventListener('click', (event) => { if (event.target === lightbox) closeLightbox(); });
+    lightbox.querySelector('.lightbox-close').addEventListener('click', closeLightbox);
+    document.addEventListener('keydown', (event) => { if (event.key === 'Escape') closeLightbox(); });
+  </script>
+</body>
+</html>

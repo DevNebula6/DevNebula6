@@ -9,6 +9,7 @@
   <a href="https://www.linkedin.com/in/vineet-prakash-diwakar-853159327/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:vineet2k3.gamer@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://drive.google.com/file/d/1dxBQGW3MeR4DKqpxngSouvDaf8rtCD9a/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-2E86AB?style=flat-square&logo=readme&logoColor=white" alt="Resume" /></a>
+  <a href="https://devnebula6.github.io/DevNebula6/"><img src="https://img.shields.io/badge/Interactive_Portfolio-Open-FFB347?style=flat-square&logo=googlechrome&logoColor=08111F" alt="Interactive portfolio" /></a>
 </div>
 
 ---
